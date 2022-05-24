@@ -1,0 +1,62 @@
+Carrier,Route Code,Vessel Name,Vessel Capacity (in MT),Vessel Ramp Height (in meters),Voyage Number,Port Name,port_code,Date of Arrival (ETA)
+Hyundai Glovis,,Grand Aurora,150 ,4.90 ,28,Bremerhaven,DE BRV,02/05/2022
+Hyundai Glovis,,Glovis Superior,200 ,5.15 ,54,Bremerhaven,DE BRV,14/06/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,45,Bremerhaven,DE BRV,07/07/2022
+Hyundai Glovis,,Grand Aurora,150 ,4.90 ,28,Hamburg,DE HAM,27/04/2022
+Hyundai Glovis,,Glovis Superior,200 ,5.15 ,54,Hamburg,DE HAM,16/06/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,45,Hamburg,DE HAM,09/07/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Bremerhaven,DE BRV,30/03/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,Bremerhaven,DE BRV,25/04/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Bremerhaven,DE BRV,30/05/2022
+Hyundai Glovis,,Glovis Captain,150 ,5.15 ,58,Bremerhaven,DE BRV,20/06/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,57,Bremerhaven,DE BRV,09/07/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Emden,DE EME,04/04/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,Emden,DE EME,29/04/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Emden,DE EME,31/05/2022
+Hyundai Glovis,,Glovis Captain,150 ,5.15 ,58,Emden,DE EME,17/06/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,57,Emden,DE EME,11/07/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Antwerpen,BE ANR,26/03/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Antwerpen,BE ANR,24/05/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Santa Marta,AR SFN,19/04/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,Santa Marta,AR SFN,11/05/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Santa Marta,AR SFN,13/06/2022
+Hyundai Glovis,,Glovis Captain,150 ,5.15 ,58,Santa Marta,AR SFN,01/07/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,57,Santa Marta,AR SFN,23/07/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,Buenaventura,CO BUN,15/05/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Manta,EC MEC,03/05/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Manta,EC MEC,18/06/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Lazaro Cardenas,MX LZC,12/05/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,Lazaro Cardenas,MX LZC,20/05/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Lazaro Cardenas,MX LZC,23/06/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,San Diego,CO SDI,17/05/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,San Diego,CO SDI,25/05/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,San Diego,CO SDI,01/07/2022
+Hyundai Glovis,,Glovis Captain,150 ,5.15 ,58,San Diego,CO SDI,13/07/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,57,San Diego,CO SDI,04/08/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Benicia,US BNC,19/05/2022
+Hyundai Glovis,,Grand Champion,150 ,5.00 ,33,Benicia,US BNC,28/05/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,53,Benicia,US BNC,28/06/2022
+Hyundai Glovis,,Glovis Captain,150 ,5.15 ,58,Benicia,US BNC,16/07/2022
+Hyundai Glovis,,Glovis Sun,200 ,5.15 ,57,Benicia,US BNC,07/08/2022
+Hyundai Glovis,,Glovis Supreme,200 ,5.20 ,57,Pyeongtaek,KR PTK,03/06/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,52,Derince,TR DRC,12/05/2022
+Hyundai Glovis,,RCC America,150 ,5.15 ,18,Derince,TR DRC,17/05/2022
+Hyundai Glovis,,Glovis Spring,200 ,5.15 ,41,Derince,TR DRC,03/06/2022
+Hyundai Glovis,,Glovis Comet,150 ,5.00 ,53,Derince,TR DRC,15/06/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,52,Yenikoy,TR JYN,14/05/2022
+Hyundai Glovis,,Glovis Spring,200 ,5.15 ,41,Yenikoy,TR JYN,05/06/2022
+Hyundai Glovis,,Glovis Comet,150 ,5.00 ,53,Yenikoy,TR JYN,18/06/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,52,Tilbury,GB TIL,22/05/2022
+Hyundai Glovis,,RCC America,150 ,5.15 ,18,Tilbury,GB TIL,28/05/2022
+Hyundai Glovis,,Glovis Spring,200 ,5.15 ,41,Tilbury,GB TIL,15/06/2022
+Hyundai Glovis,,Glovis Comet,150 ,5.00 ,53,Tilbury,GB TIL,29/06/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,52,Antwerpen,BE ANR,24/05/2022
+Hyundai Glovis,,RCC America,150 ,5.15 ,18,Antwerpen,BE ANR,27/05/2022
+Hyundai Glovis,,Glovis Spring,200 ,5.15 ,41,Antwerpen,BE ANR,17/06/2022
+Hyundai Glovis,,Glovis Comet,150 ,5.00 ,53,Antwerpen,BE ANR,01/07/2022
+Hyundai Glovis,,Glovis Summit,200 ,5.15 ,52,Bremerhaven,DE BRV,28/05/2022
+Hyundai Glovis,,RCC America,150 ,5.15 ,18,Bremerhaven,DE BRV,04/06/2022
+Hyundai Glovis,,Glovis Spring,200 ,5.15 ,41,Bremerhaven,DE BRV,25/06/2022
+Hyundai Glovis,,Glovis Comet,150 ,5.00 ,53,Bremerhaven,DE BRV,07/07/2022
+Hyundai Glovis,,Glovis Sunlight,310 ,6.70 ,26,Derince,TR DRC,02/07/2022
+Hyundai Glovis,,Glovis Sunlight,310 ,6.70 ,26,Yenikoy,TR JYN,05/07/2022

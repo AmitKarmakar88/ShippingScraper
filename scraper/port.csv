@@ -1,0 +1,1076 @@
+portName,CODE
+Rosario,AR ROS
+Santa Fe,AR SFN
+Ushuaia,AR USH
+Oranjestad,AW ORJ
+Georgetown,SH ASI
+Adelaide,AU PAE
+Brisbane,AU BNE
+Cairns,AU CNS
+Darwin,AU DRW
+Devonport,AU DPO
+Fremantle,AU FRE
+Geelong,AU GEX
+Hobart,AU HBA
+Mackay,AU MKY
+Melbourne,AU MEL
+Sydney,AU SYD
+Townsville,AU TSV
+Baku,AZ BAK
+Freeport,BS FPO
+Nassau,BS NAS
+Mina Salman,BH MIN
+Sitra,BH SIT
+Chittagong,BD CGP
+Mongla,BD MGL
+Bridgetown,BB BGI
+Antwerp,BE ANR
+Brussels (Bruxelles),BE BRU
+Ghent,BE GNE
+Liege,BE LGG
+Zeebrugge,BE ZEE
+Belize City,BZ BZE
+Cotonou,BJ COO
+Hamilton,BM BDA
+St Georges,BM SGE
+Belem,BR BEL
+Fortaleza,BR FOR
+Imbituba,BR IBB
+Manaus,BR MAO
+Paranagua,BR PNG
+Porto Alegre,BR POA
+Recife,BR REC
+Rio De Janeiro,BR RIO
+Rio Grande,BR RIG
+Salvador,BR SSA
+Santos,BR SSZ
+Vitoria,BR VIX
+Kuala Belait,BN KUB
+Muara,BN MUA
+Varna,BG VAR
+Kompongsom,KH KOS
+Phnom Penh,KH PNH
+Douala,CM DLA
+Kribi,CM KBI
+Tiko,CM TKC
+Alberni,CM PAB
+Becancour,CA BEC
+Churchill,CA CHV
+Fraser River Port,CA NWE
+Halifax,CA HAL
+Hamilton,CA HAM
+Halifax,CA HAL
+Montreal,CA MTR
+Nanaimo,CA NNO
+Sept Iles,CA SEI
+St Johns,CA SJF
+Sydney,CA SYD
+Thunder Bay,CA THU
+Toronto,CA TOR
+Trois-Rivieres,CA TRR
+Vancouver,CA VAN
+Windsor,CA WND
+Las Palmas,ES LPA
+Santa Cruz de,ES SCT
+Porto Grande,CV PGR
+"Georgetown, Grand
+Cayman",KY GEC
+Antofagasta,CL ANF
+Arica,CL ARI
+Chanaral,CL CNR
+Iquique,CL IQQ
+Puerto Montt,CL PMC
+Punta Arenas,CL PUQ
+San Antonio,CL SAI
+San Vicente,CL SVE
+Talcahuano,CL TAL
+Valparaiso,CL VAP
+Dalian,CN DLC
+Fuzhou,CN FOC
+Guangzhou,CN CAN
+Haikou,CN HAK
+Lianyungang,CN LYG
+Nantong,CN NTG
+Ningbo,CN NGB
+Qingdao,CN TAO
+Qinhuangdao,CN SHP
+Shanghai,CN SHA
+Shantou,CN SWA
+Tianjin,CN TSN
+Xiamen,CN XMN
+Zhanjiang,CN ZHA
+Barranquilla,CO BAQ
+Buenaventura,CO BUN
+Cartagena,CO CTG
+Puerto Bolivar,CO PBO
+Tumaco,CO TCO
+Turbo,CO TRB
+Moroni,KM YVA
+Mutsamudu,KM MUT
+Pointe Noire,CG PNR
+Banana,ZR BNW
+Boma,ZR BOA
+Caldera,CR CAL
+Golfito,CR GLF
+Puntarenas,CR PAS
+Quepos,CR XQP
+Abidjan,CI ABJ
+Rijeka Bakar,HR RJK
+Zadar,HR ZAD
+Dubrovnik,HR DBV
+Omisalj,HR OMI
+Ploce,HR PLE
+Pula,HR PUY
+Sibenik,HR SIB
+Split,HR SPU
+Havana,CU HAV
+Manzanillo,CU MZO
+Matanzas,CU QMA
+Nuevitas,CU NVT
+Santiago de Cuba,CU SCU
+Akrotiri,CY AKT
+Famagusta,CY FMG
+Larnaca,CY LAT
+Limassol,CY LMS
+Paphos,CY PFO
+Vassiliko,CY VAS
+Aarhus,DK AAR
+Esbjerg,DK EBJ
+Fredericia,DK FRC
+Frederikshavn,DK FDH
+Grenaa,DK GRE
+Odense,DK ODE
+Ronne,DK RNN
+Djibouti,DJ JIB
+Portsmouth,DM POR
+Roseau,DM RSU
+Barahona,DO BRX
+La Romana,DO LRM
+Puerto Plata,DO POP
+Rio Haina,DO HAI
+San Pedro de Macoris,DO SPM
+Santo Domingo,DO SDQ
+Esmeraldas,EC ESM
+Guayaquil,EC GYE
+La Libertad,EC LLD
+Manta,EC MEC
+Puerto Bolivar,EC PBO
+San Lorenzo,EC SLR
+Alexandria,EG EDK
+Damietta,EG DAM
+Port Said,EG PSD
+Suez (Al Suweis),EG SUG
+Acajutla,SV AQJ
+Cutuco,SV CUT
+Bata,GQ BSG
+Malabo (Rey Malabo),GQ SSG
+Pärnu,EE PYA
+Tallinn,EE TLL
+Klaksvik,FO KVI
+Torshavn,FO THO
+Labasa (Lambasa),FJ LBS
+Lautoka,FJ LTK
+Levuka,FJ LEV
+Savu Savu,FJ SVU
+Suva,FJ SUV
+Hamina,FI HMN
+Helsinki,FI HEL
+Kokkola,FI KOK
+Kotka,FI KTK
+Loviisa,FI LOV
+Oulu,FI OUL
+Pori,FI POR
+Rauma,FI RAU
+Turku,FI TKU
+Uusikaupunki,FI UKI
+Vaasa,FI VAA
+Bordeaux,FR BOD
+Boulogne Sur Mer,FR BOL
+Cherbourg,FR CER
+Dunkerque,FR DKK
+La Rochelle-Pallice,FR LPE
+Le Havre,FR LEH
+Marseille,FR MRS
+Nantes-St. Nazaire,FR NTE
+Paris,FR PAR
+Rouen,FR URO
+St Malo,FR SML
+Strasbourg,FR SXB
+Toulon,FR TLN
+Cayenne,GF CAY
+Papeete,PF PPT
+Cap Lopez,GA CLZ
+Libreville,GA LBV
+Owendo,GA OWE
+Port Gentil,GA POG
+Banjul,GM BJL
+Batumi,GE BUS
+Poti,GE PTI
+Sukhumi,GE SUI
+Brake,DE BKE
+Bremen,DE BRE
+Bremerhaven,DE BRV
+Duisburg,DE DUI
+Dusseldorf,DE DUS
+Emden,DE EME
+Hamburg,DE HAM
+Karlsruhe,DE KAE
+Kiel,DE KEL
+Lubeck,DE LBC
+Mannheim,DE MHG
+Rostock,DE RSK
+Wilhelmshavn,DE WVN
+Takoradi,GH TKD
+Tema,GH TEM
+Gibraltar,GI GIB
+Eleusis,GR EEU
+Iraklion (Heraklion),GR HER
+Kavala,GR KVA
+Patras,GR GPA
+Piraeus,GR PIR
+Thessaloniki,GR SKG
+Volos,GR VOL
+Holsteinsborg(Sisimiut),GL JHS
+Nanortalik,GL JNN
+Narsarsuaq,GL UAK
+Nuuk (Godthaab),GL GOH
+Gustavia,GP GUS
+Pointe-a-Pitre,GP PTP
+Apra (Agana),GU APR
+Champerico,GT CHR
+Puerto Barrios,GT PBR
+Santo Tomas De Castilla,GT STC
+Conakry,GN CKY
+Port Kamsar,GN KMR
+Bissau,GW BXO
+Georgetown,GY GEO
+New Amsterdam,GY QSK
+Port Au Prince,HT PAP
+La Ceiba,HN LCE
+Puerto Castilla,HN PCA
+Puerto Cortes,HN PCR
+San Lorenzo,HN SLO
+Tela,HN TEA
+Hong Kong,HK HKG
+Akureyri,IS AKU
+Hafnarfjordur(Straumsvik),IS HAF
+Isafjordur,IS ISA
+Keflavik,IS KEV
+Reykjavik,IS REY
+Vestmannaeyjar,IS VES
+Bombay (Mumbai),IN BOM
+Calcutta (Kolkata),IN CCU
+Chennai (Madras),IN MAA
+Cochin,IN COK
+Kandla,IN IXY
+Nhava Sheva (Jawaharlal Nehru),IN NSA
+Tuticorin,IN TUT
+Vishakhapatnam,IN VTZ
+"Cilacap, Java(Tanjung Intan)",ID CXP
+"Cirebon, Java",ID CBN
+"Jakarta, Java(Tanjung Priok)",ID TPP
+"Kupang, Timor",ID KOE
+"Palembang, Sumatra",ID PLM
+"Semarang, Java(Tanjung Emas)",ID SRG
+"Surabaya, Java(Tanjung Perak)",ID SUB
+"Ujung Pandang,Sulawesi (Makassar)",ID UPG
+Abadan,IR ABD
+Bandar Abbas,IR BND
+Bandar Anzali,IR BAZ
+Bandar Mahshahr,IR MRX
+Bushehr,IR BUZ
+Imam Khomeini,IR BKM
+Khorramshahr,IR KHO
+Lavan,IR LVP
+Sirri Island,IR SXI
+Basra,IQ BSR
+Khor al Zubair,IQ KAZ
+Umm Qasr,IQ UQR
+Arklow,IE ARK
+Cork,IE ORK
+Drogheda,IE DRO
+Dublin,IE DUB
+Foynes(Shannon Foynes Port),IE FOV
+Galway,IE GWY
+New Ross,IE NRS
+Waterford,IE WAT
+Ashdod,IL ASH
+Ashkelon,IL AKL
+Eilat,IL ETH
+Hadera,IL HAD
+Haifa,IL HFA
+Augusta,IT AUG
+Bagnoli,IT BLN
+Bari,IT BRI
+Brindisi,IT BDS
+Gela,IT GEA
+Genoa,IT GOA
+La Spezia,IT SPE
+Livorno,IT LIV
+Messina,IT MSN
+Milazzo,IT MLZ
+Napoli (Naples),IT NAP
+Palermo,IT PMO
+Porto Torres,IT PTO
+Ravenna,IT RAN
+Sarroch (Porto Foxi),IT PFX
+Savona-Vado,IT SVN
+Taranto,IT TAR
+Trieste,IT TRS
+Venice,IT VCE
+Kingston,JM KIN
+Montego Bay,JM MBJ
+Ocho Rios,JM OCJ
+Port Antonio,JM POT
+Port Esquivel,JM PEV
+Rocky Point,JM ROP
+Akita,JP AXT
+Amagasaki,JP AMA
+Chiba,JP CHB
+Hachinohe,JP HHE
+"Hakodate, Hokkaido",JP HKD
+Higashiharima,JP HHR
+Himeji,JP HIM
+Hiroshima,JP HIJ
+Kawasaki,JP KWS
+Kinuura,JP KNU
+Kobe,JP UKB
+"Kushiro, Hokkaido",JP KUH
+Mizushima,JP MIZ
+Moji,JP MOJ
+Nagoya,JP NGO
+Osaka,JP OSA
+Sakai,JP SAK
+Sakata,JP SKT
+Shimizu,JP SMZ
+Tokyo,JP TYO
+"Tomakomai,
+Hokkaido",JP TMK
+Yokohama,JP YOK
+Aqaba (El Akaba),JO AQJ
+Lamu,KE LAU
+Mombasa,KE MBA
+Betio (Tarawa),KI TRW
+Chongjin,KP CHO
+Haeju,KP HAE
+Nampo,KP NAM
+Wonsan,KP WON
+Busan (Pusan),KR PUS
+Chinhae,KR CHF
+Inchon,KR INC
+Masan,KR MAS
+Mokpo,KR MOK
+Pohang,KR KPO
+Tonghae,KR TGH
+Ulsan,KR USN
+Yosu (Yeosu),KR YOS
+Mina al Ahmadi,KW MEA
+Mina Saud,KW MIS
+Shuwaikh,KW SWK
+Liepaja,LV LPX
+Riga,SU RIX
+Ventspils,LV VNT
+Beirut,LB BEY
+Chekka,LB CHK
+Selaata,LB SEL
+Sidon,LB SDN
+Tripoli,LB KYE
+Buchanan,LR UCN
+Greenville,LR GRE
+Monrovia,LR MLW
+Bingazi (Benghazi),LY BEN
+Derna,LY DNF
+Marsa El Brega,LY LMQ
+Misurata (Qasr Ahmed),LY MRA
+Ras Lanuf,LY RLA
+Tobruk,LY TOB
+Tripoli,LY TIP
+Zuara,LY ZUA
+Klaipeda (includes sixsubports:),LT KLJ
+"Macau (Macao,
+Aomen)",MOMFM
+Antsiranana(Diego Suarez),MG DIE
+Majunga (Mahajanga),MG MJN
+Toamasina(Tamatave),MG TOA
+Tulear (Toliara),MG TLE
+"Bintulu, Sarawak",MY BTU
+"Kota Kinabalu, Sabah",MY BKI
+Kuantan(Tanjong Gelang),MY KUA
+"Kuching, Sarawak",MY KCH
+"Kudat, Sabah",MY KUD
+"Labuan, Sabah",MY LBU
+"Lahad Datu, Sabah",MY LDU
+Lumut,MY LUM
+"Miri, Sarawak",MY MYY
+"Pasir Gudang, Johor",MY PGU
+Penang (Georgetown),MY PEN
+Port Dickson,MY PDI
+Port Klang (Kelang),MY PKL
+"Sandakan, Sabah",MY SDK
+"Sibu, Sarawak",MY SBW
+"Tanjung Pelepas,
+Johor",MY TPP
+"Tawau, Sabah",MY TWU
+Valletta,MT MLA
+Fort de France,MQ FDF
+Nouadhibou,MR NDB
+Nouakchott,MR NKC
+Port Louis,MU PLU
+Acapulco,MX ACA
+Coatzacoalcos,MX COA
+Guaymas,MX GYM
+La Paz,MX LAP
+Lazaro Cardenas,MX LZC
+Manzanillo,MX ZLO
+Mazatlan,MX MZT
+Progreso,MX PGO
+Salina Cruz,MX SCX
+Tampico,MX TAM
+Topolobampo,MX TPB
+Tuxpan,MX TUX
+Veracruz,MX VER
+Pohnpei (Ex Ponape),FM PNI
+Monaco,MC MON
+Bar,CS BAR
+Kotor,CS KOT
+Plymouth,MS PLY
+Agadir,MA AGA
+Casablanca,MA CAS
+El Jadida,MA ELJ
+Kenitra,MA NNA
+Mohammedia,MA MOH
+Safi,MA SFI
+Tangier,MA TNG
+Beira,MZ BEW
+Inhambane,MZ INH
+Maputo,MZ MPM
+Nacala,MZ MNC
+Pemba,MZ POL
+Quelimane,MZ UEL
+Bassein,MM BSX
+Moulmein,MM MNU
+Yangon,MM RGN
+Luderitz,NA LUD
+Walvis Bay,NA WVB
+Nauru Island,NR INU
+Amsterdam,NL AMS
+Delfzijl,NL DZL
+Dordrecht,NL DOR
+Eemshaven,NL EEM
+Groningen,NL GRQ
+IJmuiden,NL IJM
+Rotterdam,NL RTM
+Terneuzen,NL TNZ
+"Kralendijk, Bonaire",AN KRA
+Philipsburg,AN PHI
+Willemstad,AN WIL
+Noumea,NC NOU
+Thio,NC THI
+Auckland,NZ AKL
+"Otago Harbour(Dunedin, PortChalmers,Ravensbourne)",NZ ORR
+Tauranga,NZ TRG
+Wellington,NZ WLG
+Bluefields,NI BEF
+Corinto,NI CIO
+El Bluff,NI ELB
+Puerto Cabezas,NI PUZ
+Puerto Sandino,NI PSN
+San Juan Del Sur,NI SJS
+Calabar,NG CBQ
+Lagos,NG LOS
+Onne,NG ONN
+Port Harcourt,NG PHC
+Sapele,NG SPL
+Tin Can Island,NG TIN
+Warri,NG WAR
+Saipan,MP SPN
+Bergen,NO BGO
+Drammen,NO DRM
+Hammerfest,NO HFT
+Harstad,NO HRD
+Haugesund,NO HAU
+Kristiansand,NO KRS
+Larvik,NO LAR
+Oslo,NO OSL
+Stavanger,NO SVG
+Trondheim,NO TRD
+Karachi,PK KHI
+Muhammad Bin Qasim,PK BQM
+Colon,PA ONX
+Cristobal,PA CTB
+Vacamonte,PA VAC
+Kieta,PG KIE
+Lae,PG LAE
+Madang,PG MAG
+Port Moresby,PG POM
+Rabaul,PG RAB
+Callao,PE CLL
+Chimbote,PE CHM
+Ilo,PE ILO
+Matarani,PE MRI
+Paita,PE PAI
+Salaverry,PE SVY
+Talara,PE TYL
+Batangas,PH BTG
+"Cagayan de Oro,Mindanao",PH CGY
+Cebu,PH CEB
+"Davao, Mindanao",PH DVO
+"Iligan, Mindanao",PH IGN
+Iloilo,PH ILO
+Jolo,PH JOL
+"Legaspi, Davao",PH LGP
+Manila,PH MNL
+"Puerto Princesa,Palawan",PH PPS
+"San Fernando, Luzon",PH SFE
+Subic Bay,PH SFS
+"Zamboanga,
+Mindanao",PH ZAM
+Gdansk,PL GDN
+Gdynia,PL GDY
+Kolobrzeg,PL KOL
+Swinoujscie,PL SWI
+Szczecin,PL SZZ
+Ustka,PL UST
+Aveiro,PT AVE
+Leixoes,PT LEI
+Lisbon,PT LIS
+Portimao,PT PRM
+Setubal,PT SET
+Viana Do Castelo,PT VDC
+Guanica Harbour,PR GUX
+Guayanilla,PR GUY
+Las Mareas,PR LAM
+Ponce,PR PSE
+San Juan,PR SJU
+Doha,QA DOH
+Halul Island,QA HAL
+Ras Laffan,QA RLF
+Umm Said (Mesaieed),QA UMS
+Port Reunion(Pointe des Galets),RE PDG
+Braila,RO BRA
+Constantza,RO CND
+Mangalia,RO MAG
+Sulina,RO SUL
+Kaliningrad,SU KGD
+Kholmsk,RU KHO
+Murmansk,RU MMK
+Nakhodka,RU NJK
+Novorossiysk,RU NVS
+St Petersburg,RU LED
+Tuapse,RU TUA
+Vladivostok,RU VVO
+Vyborg,RU VYG
+Basseterre,KN BAS
+Castries (St Lucia),LC SLU
+Vieux Fort,LC VIF
+Kingstown,VC KTN
+Apia,WS APW
+Santo Antonio,ST SAA
+Sao Tome,ST TMS
+Dammam,SA DMN
+Dhuba,SA DHU
+Gizan,SA GIZ
+Jeddah,SA JED
+Jubail,SA JUB
+Rabigh,SA RAB
+Ras al Mishab,SA RAM
+Ras Tanura,SA RTA
+Yanbu,SA YNB
+Dakar,SN DKR
+Port Victoria,SC POV
+Freetown,SL FNA
+Pepel,SL PEP
+Singapore,SG SIN
+Izola,SI IZO
+Koper,SI KOP
+Piran,SI PIR
+Honiara,SB HIR
+"Noro, New Georgia",SB NOR
+Viru Harbour,SB VIU
+"Yandina, Pavuvu
+Island",SB XYA
+Berbera,SO BBO
+Kismayu,SO KMU
+Merca,SO MER
+Mogadishu,SO MGQ
+Cape Town,ZA CPT
+Durban,ZA DUR
+Mossel Bay,ZA MZY
+Port Elizabeth,ZA PLZ
+Richards Bay,ZA RCB
+Saldanha Bay,ZA SDB
+Aviles,ES AVS
+Barcelona,ES BCN
+Bilbao,ES BIO
+Cadiz,ES CAD
+Cartagena,ES CAR
+Castellon,ES CAS
+Ceuta,ES CEU
+Huelva,ES HUV
+Malaga,ES AGP
+Pasajes,ES PAS
+Santander,ES SDR
+Tarragona,ES TAR
+Valencia,ES VLC
+Vigo,ES VGO
+Colombo,LK CMB
+Jaffna,LK JAF
+Trincomalee,LK TRR
+Jamestown,SH SHN
+St Pierre,PM FSP
+Port Sudan,SD PZU
+Moengo,SR MOJ
+Nieuw Nickerie,SR ICK
+Paramaribo,SR PBM
+Paranam,SR PRM
+Wageningen,SR AGI
+Gavle,SE GVX
+Gothenburg(Goteborg),SE GOT
+Halmstad,SE HAD
+Kalmar,SE KLR
+Karlshamn,SE KAN
+Malmo,SE MMA
+Solvesborg,SE SOL
+Stockholm,SE STO
+Sundsvall,SE SDL
+Basel,CH BSL
+Baniyas,SY BAN
+Hualien,TW HUN
+Kaohsiung,TW KHH
+Kaohsiung,TW KHH
+Keelung (Chilung),TW KEL
+Suao,TW SUO
+Taichung,TW TXG
+Dar Es Salaam,TZ DAR
+Kilwa Masoko,TZ KIM
+Lindi,TZ LDI
+Mtwara,TZ MYW
+Pangani,TZ PAN
+Tanga,TZ TGT
+Bangkok,TH BKK
+Laem Chabang,TH LCH
+Pattani,TH PAN
+Phuket,TH HKT
+Sattahip,TH SAT
+Songkhla,TH SGZ
+Sriracha,TH SRI
+Kpeme,TG KPE
+Lome,TG LFW
+Neiafu,TO NEI
+Nukualofa,TO TBU
+Pangai,TO PAN
+Point Fortin,TT PTF
+Point Lisas,TT PTS
+Pointe a Pierre,TT PTP
+Scarborough,TT SCA
+Spain,TT POS
+Tembladora,TT TEM
+Bizerte,TN BIZ
+Gabes,TN GAE
+La Goulette,TN LGN
+Sfax,TN SFA
+Sousse,TN SUS
+Tunis,TN TUN
+Derince,TR DRC
+Dikili,TR DIK
+Gemlik,TR GEM
+"Hopa, Artvin",TR HOP
+"Iskenderun, Hatay",TR ISK
+Istanbul,TR IST
+Trabzon,TR TZX
+Grand Turk Island,TC GDT
+Providenciales,TC PLS
+Funafuti,TV FUN
+Aberdeen,GB ABD
+Belfast,GB BEL
+Bristol,GB BRS
+Dover,GB DVR
+Falmouth,GB FAL
+Felixstowe,GB FXT
+Glasgow,GB GLW
+Grangemouth,GB GRG
+Hull,GB HUL
+Leith,GB LEI
+Liverpool,GB LIV
+London,GB LON
+Manchester,GB MNC
+Peterhead Bay,GB PHD
+Plymouth,GB PLY
+Portsmouth,GB PME
+Scapa Flow,GB SFW
+Southampton,GB SOU
+Sullom Voe,GB SUL
+Teesport,GB TEE
+Thamesport,GB RCS
+Tyne,GB TYN
+Berdyansk,UA ERD
+Kherson,UA KHE
+Odessa,UA ODS
+Reni,UA RNI
+Sevastopol,UA SVP
+Ajman,AE AJM
+Das Island,AE DAS
+Dubai (Port Rashid),AE DXB
+Fujairah,AE FJR
+Jebel Dhanna/Ruwais,AE JEA
+Khor Fakkan,AE KLF
+Mina Saqr,AE MSA
+Mina Zayed,AE MZD
+Anacortes,US AOT
+Ashtabula,US ASF
+Baltimore,US BAL
+Baton Rouge,US BTR
+Beaumont,US BPT
+Boston,US BOS
+Charleston,US CHS
+Chicago,US CHI
+Cleveland,US CLE
+Corpus Christi,US CRP
+Detroit,US DET
+Duluth-Superior,US DLH
+Freeport,US FRP
+"Hampton Roads
+(Norfolk, Chesapeake,",US HNV
+Honolulu,US HNL
+Houston,US HOU
+Huntington – Tri-State(WV),US HTS
+Jacksonville,US JAX
+Lake Charles,US LCH
+Long Beach,US LGB
+Los Angeles,US LAX
+Manatee,US MEE
+Memphis,US MEM
+Miami,US MIA
+Mobile,US MOB
+New Orleans,US
+New York/New Jersey,US NYC
+Oakland,US OAK
+Pascagoula,US PGL
+Philadelphia,US PHL
+Pittsburgh,US PIT
+Plaquemines(Louisiana),US PLQ
+Port Arthur,US POA
+Port Everglades,US PEF
+Portland (Maine),US PWM
+Portland (Oregon),US PDX
+Richmond (CA),US RCH
+Richmond (VA),US RIC
+Savannah,US SAV
+Seattle,US SEA
+South Louisiana,US LUA
+Tacoma,US ACI
+Tampa,US TPA
+Texas City,US TXT
+Valdez,US VDZ
+Wilmington (DE),US ILM
+Wilmington (NC),US ILG
+Yakutat,US YAK
+Fray Bentos,UY FZB
+Montevideo,UY MVD
+Nueva Palmira,UY NVP
+Paysandu,UY PDU
+Port Vila,VU VLI
+Santo,VU SAN
+Bajo Grande Refinery,VE BJV
+Cumana (Puerto Sucre),VE CUM
+La Guaira,VE LAG
+La Salina,VE LSV
+Maracaibo,VE MAR
+Matanzas,VE MTV
+Palua,VE PLA
+Puerto Cabello,VE PBL
+Puerto La Cruz,VE PCZ
+Punta Cardon,VE PCN
+Danang,VN DAD
+Haiphong,VN HPH
+Ho Chi Minh City,VN SGN
+Hon Gay,VN HON
+Nha Trang,VN NHA
+"Charlotte Amalie,St. Thomas",VI STT
+Durres (Durazzo),AL DRZ
+"Christiansted, St.
+Croix",VI CTD
+Limetree Bay,VI LIB
+Aden,YE ADE
+Hodeidah,YE HOD
+Mokha,YE MOK
+Mukalla,YE MKX
+Sarande,AL SAR
+Shengjjin,AL SHG
+"Vlore (Vlora, Vlone)",AL VOA
+Algiers,DZ ALG
+Annaba (Ex Bone),DZ AAE
+Arzew,DZ AZW
+Durres (Durazzo),AL DRZ
+Bejaia (Ex Bougie),DZ BJA
+Dellys,DZ DEL
+Ghazaouet,DZ GHA
+Mostaganem,DZ MOS
+Oran,DZ ORN
+"Skikda (Ex
+Philippeville) ",DZ SKI
+Tenes,DZ TEN
+Pago Pago,AS PPG
+Cabinda,AO CAB
+Lobito,AO LOB
+Luanda,AO LAD
+Namibe,AO MSZ
+Porto Amboim,AO PBN
+Soyo,AO SOQ
+Bahia Blanca,AR BHI
+Buenos Aires,AR BUE
+Comodoro Rivadavia,AR CRD
+"Concepcion del
+Uruguay ",AR COU
+Mar del Plata AR MDQ,AR MDQ
+Necochea,AR NEC
+Puerto Madryn,AR PMY
+Rio Gallegos,AR RGL
+Afghanistan,AF
+Åland Islands,AX
+Albania,AL
+Algeria,DZ
+American Samoa,AS
+Andorra,AD
+Angola,AO
+Anguilla,AI
+Antarctica,AQ
+Antigua and Barbuda,AG
+Argentina,AR
+Armenia,AM
+Aruba,AW
+Australia,AU
+Austria,AT
+Azerbaijan,AZ
+Bahamas,BS
+Bahrain,BH KBS
+Bangladesh,BD
+Barbados,BB
+Belarus,BY
+Belgium,BE
+Belize,BZ
+Benin,BJ
+Bermuda,BM
+Bhutan,BT
+Bolivia,BO
+"Bonaire, Sint Eustatius and Saba",BQ
+Bosnia and Herzegovina,BA
+Botswana,BW
+Brazil,BR
+British Indian Ocean Territory,IO
+Brunei Darussalam,BN
+Bulgaria,BG
+Burkina Faso,BF
+Burundi,BI
+Cambodia,KH
+Cameroon,CM
+Canada,CA
+Cape Verde,CV
+Cayman Islands,KY
+Central African Republic,CF
+Chad,TD
+Chile,CL
+China,CN
+Christmas Island,CX
+Cocos (Keeling) Islands,CC
+Colombia,CO
+Comoros,KM
+Congo,CG
+"Congo, The Democratic Republic of the",CD
+Cook Islands,CK
+Costa Rica,CR
+Côte d'Ivoire,CI
+Croatia,HR
+Cuba,CU
+Curaçao,CW
+Cyprus,CY
+Czech Republic,CZ
+Denmark,DK
+Dominica,DM
+Dominican Republic,DO
+Ecuador,EC
+Egypt,EG
+El Salvador,SV
+Equatorial Guinea,GQ
+Eritrea,ER
+Estonia,EE
+Eswatini,SZ
+Ethiopia,ET
+Falkland Islands (Malvinas),FK
+Faroe Islands,FO
+Fiji,FJ
+Finland,FI
+France,FR
+French Guiana,GF
+French Polynesia,PF
+French Southern Territories,TF
+Gabon,GA
+Gambia,GM
+Georgia,GE
+Germany,DE
+Ghana,GH
+Gibraltar,GI
+Greece,GR
+Greenland,GL
+Grenada,GD
+Guadeloupe,GP
+Guam,GU
+Guatemala,GT
+Guernsey,GG
+Guinea,GN
+Guinea-Bissau,GW
+Guyana,GY
+Haiti,HT
+Heard Island and McDonald Islands,HM
+Holy See (Vatican City State),VA
+Honduras,HN
+Hong Kong,HK
+Hungary,HU
+Iceland,IS
+India,IN
+Indonesia,ID
+Installations in International Waters,XZ
+"Iran, Islamic Republic of",IR
+Iraq,IQ
+Ireland,IE
+Isle of Man,IM
+Israel,IL
+Italy,IT
+Jamaica,JM
+Japan,JP
+Jersey,JE
+Jordan,JO
+Kazakhstan,KZ
+Kenya,KE
+Kiribati,KI
+"Korea, Democratic People's Republic of",KP
+"Korea, Republic of",KR
+Kuwait,KW KWI
+Kyrgyzstan,KG
+Lao People's Democratic Republic,LA
+Latvia,LV
+Lebanon,LB
+Lesotho,LS
+Liberia,LR
+Libya,LY
+Liechtenstein,LI
+Lithuania,LT
+Luxembourg,LU
+Macao,MO
+"Macedonia, The former Yugoslav Republic of",MK
+Madagascar,MG
+Malawi,MW
+Malaysia,MY
+Maldives,MV
+Mali,ML
+Malta,MT
+Marshall Islands,MH
+Martinique,MQ
+Mauritania,MR
+Mauritius,MU
+Mayotte,YT
+Mexico,MX
+"Micronesia, Federated States of",FM
+"Moldova, Republic of",MD
+Monaco,MC
+Mongolia,MN
+Montenegro,ME
+Montserrat,MS
+Morocco,MA
+Mozambique,MZ
+Myanmar,MM
+Namibia,
+Nauru,NR
+Nepal,NP
+Netherlands,NL
+New Caledonia,NC
+New Zealand,NZ
+Nicaragua,NI
+Niger,NE
+Nigeria,NG
+Niue,NU
+Norfolk Island,NF
+Northern Mariana Islands,MP
+Norway,NO
+Oman,OM
+Pakistan,PK
+Palau,PW
+"Palestine, State of",PS
+Panama,PA PCN
+Papua New Guinea,PG
+Paraguay,PY
+Peru,PE
+Philippines,PH
+Pitcairn,PN
+Poland,PL
+Portugal,PT
+Puerto Rico,PR
+Qatar,QA
+Reunion,RE PDG
+Romania,RO
+Russian Federation,RU
+Rwanda,RW
+Saint Barthélemy,BL
+"Saint Helena, Ascension and Tristan Da Cunha",SH
+Saint Kitts and Nevis,KN
+Saint Lucia,LC
+Saint Martin (French Part),MF
+Saint Pierre and Miquelon,PM
+Saint Vincent and the Grenadines,VC
+Samoa,WS
+San Marino,SM
+Sao Tome and Principe,ST
+Saudi Arabia,SA
+Senegal,SN
+Serbia,RS
+Seychelles,SC
+Sierra Leone,SL
+Singapore,SG
+Sint Maarten (Dutch Part),SX
+Slovakia,SK
+Slovenia,SI
+Solomon Islands,SB
+Somalia,SO
+South Africa,ZA
+South Georgia and the South Sandwich Islands,GS
+South Sudan,SS
+Spain,ES
+Sri Lanka,LK
+Sudan,SD
+Suriname,SR
+Svalbard and Jan Mayen,SJ
+Sweden,SE
+Switzerland,CH
+Syrian Arab Republic,SY
+"Taiwan, Province of China",TW
+Tajikistan,TJ
+"Tanzania, United Republic of",TZ
+Thailand,TH
+Timor-Leste,TL
+Togo,TG
+Tokelau,TK
+Tonga,TO
+Trinidad and Tobago,TT
+Tunisia,TN
+Turkey,TR
+Turkmenistan,TM
+Turks and Caicos Islands,TC
+Tuvalu,TV
+Uganda,UG
+Ukraine,UA
+United Arab Emirates,AE
+United Kingdom,GB
+United States [A to E] [F to J] [K to O] [P to T] [U to Z],US
+United States Minor Outlying Islands,UM
+Uruguay,UY
+Uzbekistan,UZ
+Vanuatu,VU
+Venezuela,VE
+Viet Nam,VN
+"Virgin Islands, British",VG
+"Virgin Islands, U.S.",VI
+Wallis and Futuna,WF
+Western Sahara,EH
+Yemen,YE
+Zambia,ZM
+Zimbabwe,ZW
